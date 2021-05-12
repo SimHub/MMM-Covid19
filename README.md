@@ -1,3 +1,6 @@
-# MagicMirror2-Module: Covid19 Chart - GERMANY - NRW
+# MagicMirror2-Module: Covid19 Chart
+
+country: GERMANY  
+state: NRW
 
 <img src="./chart.png" alt="chart">
