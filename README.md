@@ -31,3 +31,11 @@ Install the dependencies:
 ```
 npm install
 ```
+
+Add the module to the modules array in the `config/config.js` file:
+
+```javascript
+    {
+            module: "MMM-Covid19",
+    },
+```
