@@ -20,18 +20,6 @@ git clone https://github.com/SimHub/
 MMM-Covid19
 ```
 
-Go to the modules folder:
-
-```
-cd MMM-Covid19
-```
-
-Install the dependencies:
-
-```
-npm install
-```
-
 Add the module to the modules array in the `config/config.js` file:
 
 ```javascript
