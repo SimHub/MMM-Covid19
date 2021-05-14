@@ -1,7 +1,7 @@
 # MagicMirror2-Module: Covid19 Chart
 
-country: GERMANY  
-state: NRW
+Country: GERMANY  
+State: NRW
 
 <img src="./chart.png" alt="chart">
 
