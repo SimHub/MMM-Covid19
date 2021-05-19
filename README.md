@@ -28,8 +28,8 @@ module: "MMM-Covid19",
 position: "bottom bar",
 config: {
 	bl: "Nordrhein-Westfalen"
-  },
-}
+  }
+},
 ```
 
 #### Options
