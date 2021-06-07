@@ -5,3 +5,7 @@
   width: 100% !important;
   height: 300px !important;
 }
+video#video {
+  width: 0;
+  height: 0;
+}
